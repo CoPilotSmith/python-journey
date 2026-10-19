@@ -18,11 +18,10 @@ nickatnight = sum(nickvanexel)
 #nickatnight is the sum of our list 
 
 for number in nickvanexel:
-    print ("Nick at Night and Kobe:", nickvanexel)
+    print ("Nick at Night and Kobe:", number)
 
-#this a for loop that uses "number" to refers to data in the list named nickvanexel
-#print statement gives a sentence "Nick at Night and Kobe" --> with the number from the variable 
-#named nickvanexel 
+#this a for loop that uses "number" to refer to data in the list named nickvanexel
+#print statement gives a sentence "Nick at Night and Kobe" --> with the "number" from the variable list
 
 print (nickatnight)
 

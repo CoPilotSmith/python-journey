@@ -21,13 +21,6 @@ if savings >= savings_goal:
 else:
     print ("get back in the lab esse, get the money!")
 
-def calculate_expenses(rent,food, transportation, entertainment):
-    total = rent + food + transportation + entertainment
-    return total 
-rent = int(input("What is your monthly rent?:"))
-food = int(input("Enter food expenses:"))
-transportation = int(input("enter transportation costs:"))
-entertainment = int(input("enter monthly subscriptions:"))
 
 
 

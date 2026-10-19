@@ -48,9 +48,3 @@ else:
     print ("Yall cant stop the mamba")
 
 # exercise showing what I leaarned on day 8, created own variables with Kobe Trash talk 
-
-
-
-
-
-

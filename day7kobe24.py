@@ -18,7 +18,7 @@ savings = money_left (income,black_mamba)
 
 if savings >= savings_goal:
     print ("you met your savings goal el chapo jr!!")
-elif savings > 800:
+elif savings > 0:
     print ("get to it my boy, need more money!!")
 else:
     print ("we gotta get more pesos, dinero, chedda!")

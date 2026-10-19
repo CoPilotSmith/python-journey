@@ -11,4 +11,4 @@ name=input("What is your name? ")
 
 age = int(input("What is your age? "))
 salary = float(input("what is your current salary?"))
-salary = float(input("what is your current salary?"))
+salary = float(input("what is your desired salary?"))
