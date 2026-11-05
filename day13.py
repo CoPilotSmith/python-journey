@@ -12,7 +12,7 @@ print (nash_stats)
 # created a dictionary named Steve Nash, it holds the stats --> points, assists, jersey number, and rebounds
 
 for stat in nash_stats:
-    if nash_stats[stat] >= 13:
+    if nash_stats[stat] > 13:
         print (stat, nash_stats[stat])
 
 # for loop that checks the value assosiated with each stat, if that stat is greater than 13 then it will 
@@ -35,8 +35,7 @@ total = 0
 for stat in nash_stats:
     total += nash_stats[stat]
 print (total)    
-    
 
-
-
+# the code above creates a variable named total and sets it equal to zero. For loop goes through 
+# the dictionary individually and adds the stat value to the total 
 
